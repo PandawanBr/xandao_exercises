@@ -1,4 +1,7 @@
 #!/usr/bin/python3
+
+# Dado um número, mostrar de forma aleatória a quantidade de palavras do número inserido
+
 import random
 
 print("Gerador de Xablau")

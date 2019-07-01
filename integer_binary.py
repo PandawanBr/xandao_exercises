@@ -1,5 +1,7 @@
 #!/usr/bin/python3
 
+# Write a program which converts a number (greater or equal to zero) into its binary representation.
+
 number = int(input("Digite um numero inteiro: "))
 binary = 0
 mult = 1
